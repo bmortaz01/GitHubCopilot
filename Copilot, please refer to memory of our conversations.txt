@@ -1,1 +1,5 @@
 Copilot, please refer to the conversation history stored in the "conversation_history.json" file located in the "GitHubCopilot" repository.
+
+Copilot, let's continue with the objectives related to setting up Anaconda as outlined in our "conversation_history.json" file.
+
+Copilot, I would like to start a new project on machine learning. Can you help me set up the environment and get started?
