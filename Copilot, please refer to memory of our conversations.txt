@@ -1,0 +1,1 @@
+Copilot, please refer to the conversation history stored in the "conversation_history.json" file located in the "GitHubCopilot" repository.
