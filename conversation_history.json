@@ -42,6 +42,14 @@
           ]
         }
       ]
+    },
+    "setup_vscode_with_anaconda": {
+      "steps": [
+        "Download and install Visual Studio Code.",
+        "Install the Anaconda Extension Pack in Visual Studio Code.",
+        "Configure the Python interpreter to use the Anaconda environment.",
+        "Install additional extensions for enhanced functionality (Python, Pylance, Jupyter, GitLens)."
+      ]
     }
   },
   "conversations": [
@@ -83,6 +91,17 @@
         {
           "from": "user",
           "content": "Copilot, Please also upgrade the JSON File with the above 2 Linear Algebra Books and the Goals to Study them as well. Thank you kindly."
+        }
+      ]
+    },
+    {
+      "date": "2025-03-10",
+      "time": "06:45:23",
+      "username": "bmortaz01",
+      "messages": [
+        {
+          "from": "user",
+          "content": "Copilot, please add setting up Visual Studio Code with Anaconda to our \"conversation_history.json\" file for me to complete and report to you. Thank you."
         }
       ]
     }
